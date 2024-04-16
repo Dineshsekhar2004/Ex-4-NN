@@ -1,6 +1,6 @@
 
-<H3>NAME:Kabilan V</H3>
-<H3>REGISTER NO:212222100018</H3>
+<H3>NAME:Dinesh.S V</H3>
+<H3>REGISTER NO:212222230033 </H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
